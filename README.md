@@ -14,4 +14,4 @@ OR just:
 
 ``docker run -d -p 8083:80 felipeschirmann/conversao-peso:v1.0.0``
 
-![doc](https://raw.githubusercontent.com/felipeschirmann/conversao-peso/main/imgs/conversao-doc.drawio.svg)
+![doc](https://raw.githubusercontent.com/felipeschirmann/conversao-peso/main/imgs/conversao-doc-conversao-peso.drawio.svg)
